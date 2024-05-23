@@ -14,6 +14,6 @@ For use:
   2. Get "sql script" file and run with any SQL Workbench.(Before you must be create a database)
   3. Be sure your "Employee" class and Database connected to each others. (Check on application.properties)
   4. Then, project will be ready for start.
-  5. Go and use that url -> localhost://8080/employees/list
+  5. Go and use that url -> localhost:8080/employees/list
   6. Then, ready to use.
 
