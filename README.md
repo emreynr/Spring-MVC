@@ -1,6 +1,6 @@
 ## Full Stack App for Employee CRUD
 
-A simple project for management to employees. Developed with Thylemeaf. 
+A simple project for management to employees. Developed with Spring Thymeleaf.
 
 Requirements:
   - For use, need Java 17 other newer version.
@@ -12,7 +12,8 @@ Requirements:
 For use:
   1. Download this project or develop your own app with it.
   2. Get "sql script" file and run with any SQL Workbench.(Before you must be create a database)
-  3. Then, project will be ready for start.
-  4. Go and use that url -> localhost://8080/employees/list
-  5. Then, ready to use.
+  3. Be sure your "Employee" class and Database connected to each others. (Check on application.properties)
+  4. Then, project will be ready for start.
+  5. Go and use that url -> localhost://8080/employees/list
+  6. Then, ready to use.
 
